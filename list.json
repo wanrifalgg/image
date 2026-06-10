@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nama": "1.jpg",
-        "url": "https://raw.githubusercontent.com/wanrifalgg/image/main/1.jpg"
+       "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/image@main/1.jpg"
     },
     {
         "id": 2,
